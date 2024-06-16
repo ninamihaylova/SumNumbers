@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\bin\Debug\net8.0\SumNumbers.exe
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\bin\Debug\net8.0\SumNumbers.deps.json
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\bin\Debug\net8.0\SumNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\bin\Debug\net8.0\SumNumbers.dll
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\bin\Debug\net8.0\SumNumbers.pdb
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.dll
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\refint\SumNumbers.dll
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.pdb
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\SumNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SumNumbers\SumNumbers\obj\Debug\net8.0\ref\SumNumbers.dll
